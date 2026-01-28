@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "hindu.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
